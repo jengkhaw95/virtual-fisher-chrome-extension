@@ -1,0 +1,6 @@
+node_modules/
+images/
+content.js
+popup.js
+popup.html
+background.js
